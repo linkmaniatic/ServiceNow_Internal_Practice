@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-22 19:59:18</sys_created_on>
-        <sys_id>0830520edba133006574d1b1ca96196a</sys_id>
+        <sys_id>8572928edba133006574d1b1ca961995</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Company</sys_name>
         <sys_package display_value="Finantial Mate" source="x_164970_finantial">6652c8bddb2933006574d1b1ca9619f2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Finantial Mate">6652c8bddb2933006574d1b1ca9619f2</sys_scope>
         <sys_update_name>sys_dictionary_x_164970_finantial_mate_cmdb_importsettable_u_company</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-22 19:59:18</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-05-22 20:09:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

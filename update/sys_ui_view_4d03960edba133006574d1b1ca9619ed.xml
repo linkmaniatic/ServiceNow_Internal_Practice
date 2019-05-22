@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_lets_prepare_a_mate</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-22 20:11:39</sys_created_on>
+        <sys_id>4d03960edba133006574d1b1ca9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lets prepare a Mate View</sys_name>
+        <sys_package display_value="Finantial Mate" source="x_164970_finantial">6652c8bddb2933006574d1b1ca9619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finantial Mate">6652c8bddb2933006574d1b1ca9619f2</sys_scope>
+        <sys_update_name>sys_ui_view_4d03960edba133006574d1b1ca9619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-22 20:11:39</sys_updated_on>
+        <title>Lets prepare a Mate View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
