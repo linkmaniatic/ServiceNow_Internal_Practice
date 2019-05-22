@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_164970_finantial_mate_cmdb_importsettable" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_164970_finantial_mate_cmdb_importsettable" element="NULL" name="x_164970_finantial_mate_cmdb_importsettable" parent="NULL" relationship="NULL" sys_domain="global" view="f1f7227264232300aadba650cb85d47b">4cf0da0edba133006574d1b1ca961959</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-22 20:02:34</sys_created_on>
+            <sys_id>08f0da0edba133006574d1b1ca96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-22 20:02:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_164970_finantial_mate_cmdb_importsettable</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-22 20:02:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cf0da0edba133006574d1b1ca961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_164970_finantial_mate_cmdb_importsettable</sys_name>
+            <sys_package display_value="Finantial Mate" source="x_164970_finantial">6652c8bddb2933006574d1b1ca9619f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finantial Mate">6652c8bddb2933006574d1b1ca9619f2</sys_scope>
+            <sys_update_name>sys_ui_list_x_164970_finantial_mate_cmdb_importsettable_sys_ref_list</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-22 20:02:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">f1f7227264232300aadba650cb85d47b</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

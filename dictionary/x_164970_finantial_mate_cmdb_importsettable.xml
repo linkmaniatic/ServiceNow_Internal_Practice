@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Mate_CMDB_ImportSetTable" max_length="40" name="x_164970_finantial_mate_cmdb_importsettable" type="collection">
+        <element attributes="import_attribute_name=Asset,edge_encryption_enabled=true" label="Asset" max_length="40" name="u_asset" type="string"/>
+        <element attributes="import_attribute_name=Asset tag,edge_encryption_enabled=true" label="Asset tag" max_length="40" name="u_asset_tag" type="string"/>
+        <element attributes="import_attribute_name=Assigned,edge_encryption_enabled=true" label="Assigned" max_length="40" name="u_assigned" type="string"/>
+        <element attributes="import_attribute_name=Company,edge_encryption_enabled=true" label="Company" max_length="40" name="u_company" type="string"/>
+        <element attributes="import_attribute_name=Cost,edge_encryption_enabled=true" label="Cost" max_length="40" name="u_cost" type="string"/>
+        <element attributes="import_attribute_name=Manufacturer,edge_encryption_enabled=true" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Number,edge_encryption_enabled=true" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Purchased" label="Purchased" max_length="40" name="u_purchased" type="integer"/>
+    </element>
+</database>
